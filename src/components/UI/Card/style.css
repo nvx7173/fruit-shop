@@ -1,0 +1,13 @@
+.card {
+  width: 100%;
+  background: #fff0;
+  text-align: left;
+  border: none;
+  margin: 20px 0;
+}
+.cardHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 20px;
+  border-bottom: 1px solid #cecece;
+}

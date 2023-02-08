@@ -1,0 +1,39 @@
+.bg-content {
+  background-image: url("../../images/bg1.jpg");
+  padding: 100px 0px;
+}
+
+.contact-us {
+  background-color: #fff;
+  padding: 60px 60px 60px 60px;
+  box-shadow: -15px 10px 10px rgba(0, 0, 0, 0.5);
+}
+.place-order-item {
+  background-color: #eee;
+  border: 1px solid #173fd0;
+  height: 180px;
+  padding: 15px;
+}
+
+.place-order-item-title {
+  padding-left: 10px;
+  color: #173fd0;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.icon {
+  color: #0729a3;
+  font-size: 26px;
+  padding-bottom: 15px;
+}
+
+.place-order-content {
+}
+
+.chat-us {
+  margin-top: 50px;
+}
+
+.align-order {
+}

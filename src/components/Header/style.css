@@ -1,0 +1,54 @@
+/* ============================ */
+.navbar {
+  background-color: rgb(16 136 32 / 0%);
+  z-index: 999;
+}
+.navbar .logo-image img {
+  width: 75%;
+}
+
+.navbar .navbar-nav a {
+  color: #4edeff !important;
+  font-size: 18px;
+}
+
+.navbar .navbar-nav .nav-text {
+  padding: 0 10px;
+}
+
+.Toastify__toast--default {
+  background: rgb(1, 153, 14) !important;
+  color: #fff !important;
+  border-radius: 15px;
+}
+
+.form-title {
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.form-input {
+  margin: 15px 0px !important;
+  width: 100%;
+}
+
+.form-btn {
+  border-radius: 100px !important;
+  margin-top: 15px;
+  width: 100%;
+  background: rgb(131, 58, 180) !important;
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  ) !important;
+  color: #fff !important;
+}
+
+.form-text p {
+  margin: 10px 0px;
+  text-align: center;
+  font-size: 15px;
+  color: rgb(184, 26, 26);
+}

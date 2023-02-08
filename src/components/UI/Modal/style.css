@@ -1,0 +1,54 @@
+.modal-content {
+  width: 90%;
+  background-color: #fff;
+}
+
+.modal-container {
+  background-color: rgb(255 255 255 / 82%);
+}
+.modal-container .carousel-side .carousel-control-next-icon,
+.carousel-control-prev-icon {
+  display: none;
+}
+.modal-container .carousel-side {
+  background-color: #fff;
+  padding-top: 50px;
+  border-right: 1px solid #040e06;
+
+  border-right: 1px solid #040e06;
+}
+
+.modal-content:before {
+  content: "";
+  position: absolute;
+  bottom: 10px;
+  left: 1%;
+  width: 50%;
+  height: 30px;
+  background: rgba(0, 0, 0, 0.3);
+  transform-origin: right;
+  transform: skewY(-8deg);
+  z-index: -1;
+  filter: blur(5px);
+}
+
+.modal-content:after {
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 50%;
+  height: 30px;
+  background: rgba(0, 0, 0, 0.3);
+  transform-origin: left;
+  transform: skewY(8deg);
+  z-index: -1;
+  filter: blur(10px);
+}
+
+.modal-container .form-side {
+  padding: 25px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}

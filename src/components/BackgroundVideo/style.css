@@ -1,0 +1,34 @@
+.bg {
+  position: absolute;
+  top: 0;
+  scroll-behavior: smooth;
+}
+.bg .bg-video video {
+  filter: brightness(60%);
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.detail {
+  color: #4edeff;
+  position: absolute;
+  display: flex;
+  justify-content: space-evenly;
+  top: 200px;
+  left: 250px;
+}
+
+.right-content img {
+  margin-left: 200px;
+  margin-top: -50px;
+  width: 40%;
+}
+button {
+  border-radius: 20px;
+  margin-right: 10px;
+  background-color: #0e8409f0;
+  padding: 8px;
+  color: #ffffff;
+  transition: 0.1s;
+}

@@ -1,0 +1,125 @@
+.bg-page {
+  height: 800px;
+  padding-top: 20px;
+  background-image: url("../../images/bg1.jpg");
+}
+.product-detail {
+  background-color: #fff;
+  padding: 15px;
+  box-shadow: -15px 10px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+.product-detail .product-image {
+  text-align: center;
+}
+.product-detail .product-image img {
+  width: 80%;
+}
+.detail-side {
+  border-top: 2px solid #009813;
+  padding-top: 30px;
+}
+
+.image-detail {
+  padding: 0 53px;
+}
+
+.image-detail-item {
+  margin: 15px 0;
+  margin-bottom: 20px;
+}
+
+.image-detail-item img {
+  width: 50%;
+}
+
+.common-title {
+  color: #023509;
+  font-weight: bold;
+  font-size: 22px;
+  font-style: italic;
+  opacity: 0.9;
+}
+.product-name {
+  color: #006b0e;
+  font-size: 47px;
+
+  padding: 10px 0;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.price-title {
+  color: #009813;
+  font-size: 16px;
+  font-style: italic;
+  opacity: 0.9;
+}
+.product-price {
+  color: #009813;
+  padding: 10px 0;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: bold;
+  margin-left: 40px;
+}
+
+.left-quantity-title {
+  font-size: 16px;
+  padding: 10px 0;
+  font-style: italic;
+  opacity: 0.9;
+  color: red;
+}
+
+.product-quantity {
+  font-size: 20px;
+  font-style: italic;
+  color: rgb(141, 26, 26);
+  padding: 0 10px;
+  font-weight: bold;
+}
+
+.description-title {
+  color: #009813;
+  font-size: 16px;
+  padding-top: 10px;
+  font-style: italic;
+  opacity: 0.9;
+}
+
+.product-description {
+  color: #009813;
+  font-size: 14px;
+  font-style: italic;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #009813;
+}
+
+.add-cart {
+  margin-right: 0;
+}
+
+.breed ul {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+.breed ul li {
+  list-style: none;
+  margin-right: 5px;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+}
+.breed ul li a {
+  text-decoration: none;
+  color: #777;
+  display: inline-block;
+  font-size: 12px;
+  margin: 0 10px;
+}
+.categoy-detail {
+  margin-top: -555px;
+}

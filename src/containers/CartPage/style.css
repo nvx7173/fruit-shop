@@ -1,0 +1,25 @@
+.cartContainer {
+  padding: 50px;
+  background-image: url("../../images/bg1.jpg");
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardHeader {
+  background-color: rgb(5, 100, 184);
+  color: #fff;
+  font-size: 28px;
+}
+
+.materialButton {
+  background-color: rgb(5, 100, 184) !important;
+  border-radius: 10px !important;
+}
+.continue {
+  margin-left: 300% !important;
+}
+
+.materialButton:active {
+  border: none;
+  outline: none;
+}

@@ -1,0 +1,63 @@
+.payment-image {
+  text-align: center;
+}
+
+.payment-image img {
+  width: 70%;
+  margin-left: 20px;
+}
+
+.total-title {
+  color: #463ce2;
+  font-size: 22px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.total-product {
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: bold;
+  color: #000;
+  box-shadow: -1px 1px 5px #0f1554;
+}
+
+.total-price-title {
+  color: #463ce2;
+  font-size: 22px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.total-price {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #000;
+  box-shadow: -1px 1px 5px #0f1554;
+}
+
+.ship-title {
+  color: #463ce2;
+  font-size: 22px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.free-ship {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #000;
+}
+
+.free-ship img {
+  width: 50%;
+}
+.pay-title {
+  color: #0f1554;
+}
+.pay {
+  color: rgb(182, 21, 21);
+}
